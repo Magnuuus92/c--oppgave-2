@@ -20,8 +20,8 @@ class Program
         Console.WriteLine("Input name:");
         string? name = Console.ReadLine();
 
-        int bday;
-        Console.WriteLine("Input date of birth using only numbers: (example: 12121992)");//!
+        int bday = 0; //bday må ha en verdi for å få ny verdi fra input i try/catch loopen
+        Console.WriteLine("Input date of birth using only numbers: (example: 12121992)");
         while (bdayAns == false)
         {
             try
@@ -89,7 +89,7 @@ class Program
             }
         }
 
-        Console.WriteLine(name + height + male + country + parent + bday);
+        Console.WriteLine(name + bday + height + male + country + parent);
 
 
 
