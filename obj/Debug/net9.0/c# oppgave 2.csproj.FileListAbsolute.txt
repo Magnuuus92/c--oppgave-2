@@ -12,3 +12,4 @@ C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\ref
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.pdb
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.genruntimeconfig.cache
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\ref\c# oppgave 2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.sourcelink.json
