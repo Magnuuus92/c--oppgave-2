@@ -1,0 +1,14 @@
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\bin\Debug\net9.0\c# oppgave 2.exe
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\bin\Debug\net9.0\c# oppgave 2.deps.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\bin\Debug\net9.0\c# oppgave 2.runtimeconfig.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\bin\Debug\net9.0\c# oppgave 2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\bin\Debug\net9.0\c# oppgave 2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.AssemblyInfoInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.AssemblyInfo.cs
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.csproj.CoreCompileInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\refint\c# oppgave 2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\c# oppgave 2.genruntimeconfig.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\c# oppgave 2\obj\Debug\net9.0\ref\c# oppgave 2.dll
