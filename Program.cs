@@ -28,6 +28,7 @@ class Program
             {
 
                 bday = Convert.ToInt32(Console.ReadLine());
+
                 bdayAns = true;
             }
             catch
@@ -36,7 +37,7 @@ class Program
             }
 
         }
-        Console.WriteLine(bday); //teste bday
+        Console.WriteLine(bday); //teste bday TESTE BDAY
         Console.WriteLine("Input Height in cm:");
         double? height = Convert.ToDouble(Console.ReadLine());
         //GENDER
