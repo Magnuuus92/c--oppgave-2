@@ -19,14 +19,14 @@ class Program
 
         Console.WriteLine("Input name:");
         string? name = Console.ReadLine();
-        int bday = 0;
-        int birthDay = bday;
+
+        int bday;
         Console.WriteLine("Input date of birth using only numbers: (example: 12121992)");//!
         while (bdayAns == false)
         {
-
             try
             {
+
                 bday = Convert.ToInt32(Console.ReadLine());
                 bdayAns = true;
             }
@@ -36,7 +36,7 @@ class Program
             }
 
         }
-
+        Console.WriteLine(bday); //teste bday
         Console.WriteLine("Input Height in cm:");
         double? height = Convert.ToDouble(Console.ReadLine());
         //GENDER
@@ -88,8 +88,8 @@ class Program
             }
         }
 
+        Console.WriteLine(name + height + male + country + parent + bday);
 
-        Console.WriteLine(name + height + male + country + parent + birthDay);
 
 
     }
