@@ -102,7 +102,7 @@ class Program
         }
         if (morningTime == true)
         {
-            Console.WriteLine("hello morning");
+
         }
     }
 
