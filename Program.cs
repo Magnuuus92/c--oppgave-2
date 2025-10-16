@@ -9,7 +9,8 @@ class Program
     {
 
 
-        //Console.DateTime;
+        DateTime currentTime = DateTime.Now;
+
 
         bool male = false;
         bool genderAns = false;
@@ -90,9 +91,19 @@ class Program
         }
 
         Console.WriteLine(name + bday + height + male + country + parent);
+        //checks ved bruk av dictionary
+        // var checkDict = new Dictionary<tuple<string, int>, string>();
+        // checkDict.add(Tuple.Create(bday, ))
 
-
-
+        bool morningTime = false;
+        if (currentTime.Hour > 5 && currentTime.Hour < 15)
+        {
+            morningTime = true;
+        }
+        if (morningTime == true)
+        {
+            Console.WriteLine("hello morning");
+        }
     }
 
 }
