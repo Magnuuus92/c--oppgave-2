@@ -92,8 +92,8 @@ class Program
 
         Console.WriteLine(name + bday + height + male + country + parent);
         //checks ved bruk av dictionary
-        // var checkDict = new Dictionary<tuple<string, int>, string>();
-        // checkDict.add(Tuple.Create(bday, ))
+        var checkDict = new Dictionary<string, string>();
+
 
         bool morningTime = false;
         if (currentTime.Hour > 5 && currentTime.Hour < 15)
@@ -102,7 +102,7 @@ class Program
         }
         if (morningTime == true)
         {
-
+            Console.WriteLine("hello morning");
         }
     }
 
